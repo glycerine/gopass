@@ -1,4 +1,4 @@
-# getpasswd in Go [![GoDoc](https://godoc.org/github.com/howeyc/gopass?status.svg)](https://godoc.org/github.com/howeyc/gopass) [![Build Status](https://secure.travis-ci.org/howeyc/gopass.png?branch=master)](http://travis-ci.org/howeyc/gopass)
+# getpasswd in Go [![GoDoc](https://godoc.org/github.com/glycerine/gopass?status.svg)](https://godoc.org/github.com/glycerine/gopass) [![Build Status](https://secure.travis-ci.org/glycerine/gopass.png?branch=master)](http://travis-ci.org/glycerine/gopass)
 
 Retrieve password from user terminal or piped input without echo.
 
@@ -9,7 +9,7 @@ Example:
 package main
 
 import "fmt"
-import "github.com/howeyc/gopass"
+import "github.com/glycerine/gopass"
 
 func main() {
 	fmt.Printf("Password: ")
