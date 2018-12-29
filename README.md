@@ -25,3 +25,5 @@ func main() {
 ```
 
 Caution: Multi-byte characters not supported!
+
+Forked from https://github.com/howeyc/gopass
